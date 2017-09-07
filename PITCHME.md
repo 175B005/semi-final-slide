@@ -1,5 +1,7 @@
 ## 蝉ファイナル
 
+Unity1週間ゲームジャム 「夏」　出展作品
+
 ![蝉ファイナル](https://object-storage.tyo1.conoha.io/v1/nc_df3bdbc45bc04950b558834f5728517a/unityroom_production/icon/1302/oneweek4.gif)
 
 [蝉ファイナルを遊ぶ](https://unityroom.com/games/semi-final/webgl)
@@ -39,6 +41,7 @@
 ## 開発環境
 - 開発環境
   - Windows7+Unity2017.1
+  - WebGLビルド
 - モデリング
   - Blender3D
 - このスライド
@@ -108,4 +111,7 @@
 
 ---
 
-おわり
+## おわり
+
+https://unityroom.com/games/semi-final/webgl で公開中！
+
