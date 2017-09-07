@@ -41,6 +41,8 @@
   - Windows7+Unity2017.1
 - モデリング
   - Blender3D
+- このスライド
+  - GitHub + GitPitch
 
 ---
 
@@ -95,6 +97,8 @@
   - 効果音ラボ. http://soundeffect-lab.info/
 - MP3の切り出し
   - Martin Pesch. http://mpesch3.de1.cc/mp3dc.html
+
+---
 
 ## 利用した素材(3/3)
 - Cinemachine / PostProcessing Stack V2
