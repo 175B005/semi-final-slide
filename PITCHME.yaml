@@ -5,4 +5,4 @@ theme : black
 footnote : "(C) 2017 Yu Tanaka"
 
 #切り替え効果
-transition : convex
+transition : fade
