@@ -35,23 +35,26 @@
 - セミのモデルとアニメーション
 
 ---
-## 利用した素材
+
+## 利用した素材(1/2)
 - 階段のモデル
--- Aquarius Max. Dungeon Creator Kit LITE http://u3d.as/api
+  - Aquarius Max. Dungeon Creator Kit LITE http://u3d.as/api
 - トーチ
--- Unity Technologies. Unity Particle Pack http://u3d.as/BZ7
+  - Unity Technologies. Unity Particle Pack http://u3d.as/BZ7
 - フォント
--- 青柳衡山,Musashi System Inc. 衡山毛筆フォント行書 http://opentype.jp/kouzangyousho.htm
+  - 青柳衡山,Musashi System Inc. 衡山毛筆フォント行書 http://opentype.jp/kouzangyousho.htm
 - BGM
--- H/MIX GALLERY. http://www.hmix.net/
+  - H/MIX GALLERY. http://www.hmix.net/
+
+## 利用した素材(2/2)
 - 効果音
--- 効果音ラボ. http://soundeffect-lab.info/
+  - 効果音ラボ. http://soundeffect-lab.info/
 - MP3の切り出し
--- Martin Pesch. http://mpesch3.de1.cc/mp3dc.html
+  - Martin Pesch. http://mpesch3.de1.cc/mp3dc.html
 - Cinemachine / PostProcessing Stack V2
--- Unity Technologies.
+  - Unity Technologies.
 - オンラインランキング機能
--- naichi.  http://blog.naichilab.com/entry/webgl-simple-ranking
+  - naichi.  http://blog.naichilab.com/entry/webgl-simple-ranking
 
 ---
 ## 開発環境
