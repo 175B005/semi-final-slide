@@ -78,23 +78,25 @@
 
 ---
 
-## 利用した素材(1/2)
+## 利用した素材(1/3)
 - 階段のモデル
   - Aquarius Max. Dungeon Creator Kit LITE http://u3d.as/api
 - トーチ
   - Unity Technologies. Unity Particle Pack http://u3d.as/BZ7
 - フォント
   - 青柳衡山,Musashi System Inc. 衡山毛筆フォント行書 http://opentype.jp/kouzangyousho.htm
-- BGM
-  - H/MIX GALLERY. http://www.hmix.net/
 
 ---
 
-## 利用した素材(2/2)
+## 利用した素材(2/3)
+- BGM
+  - H/MIX GALLERY. http://www.hmix.net/
 - 効果音
   - 効果音ラボ. http://soundeffect-lab.info/
 - MP3の切り出し
   - Martin Pesch. http://mpesch3.de1.cc/mp3dc.html
+
+## 利用した素材(3/3)
 - Cinemachine / PostProcessing Stack V2
   - Unity Technologies.
 - オンラインランキング機能
