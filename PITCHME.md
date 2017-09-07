@@ -8,7 +8,7 @@
 
 ## 作品の概要
 夏の終わり。階段には、夏を精一杯生きた蝉たちが、その役目を終えて静かに身を横たえていた・・・
-
+|
 のならいいのだが、生きてる奴がいる。階段を降りねばならないのだが・・・
 
 [蝉ファイナル](https://unityroom.com/games/semi-final/webgl)
@@ -46,7 +46,8 @@
 - BGM
   - H/MIX GALLERY. http://www.hmix.net/
 
-## 利用した素材(2/2)
++++
+
 - 効果音
   - 効果音ラボ. http://soundeffect-lab.info/
 - MP3の切り出し
