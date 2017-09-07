@@ -1,6 +1,6 @@
 ## 蝉ファイナル
 
-[![蝉ファイナル](https://object-storage.tyo1.conoha.io/v1/nc_df3bdbc45bc04950b558834f5728517a/unityroom_production/icon/1302/oneweek4.gif)](https://unityroom.com/games/semi-final/webgl)
+![蝉ファイナル](https://object-storage.tyo1.conoha.io/v1/nc_df3bdbc45bc04950b558834f5728517a/unityroom_production/icon/1302/oneweek4.gif)
 
 [蝉ファイナルを遊ぶ](https://unityroom.com/games/semi-final/webgl)
 
@@ -10,6 +10,8 @@
 夏の終わり。階段には、夏を精一杯生きた蝉たちが、その役目を終えて静かに身を横たえていた・・・
 
 のならいいのだが、生きてる奴がいる。階段を降りねばならないのだが・・・
+
+[蝉ファイナル](https://unityroom.com/games/semi-final/webgl)
 
 ---
 
@@ -28,7 +30,8 @@
 ---
 
 ## 自分で開発した箇所
-
+- 企画
+- メインプログラムは全て自作
 
 ---
 ## 利用した素材
@@ -47,5 +50,4 @@
 - Cinemachine / PostProcessing Stack V2
 -- Unity Technologies.
 - オンラインランキング機能
--- naichi. 
- http://blog.naichilab.com/entry/webgl-simple-ranking
+-- naichi.  http://blog.naichilab.com/entry/webgl-simple-ranking
