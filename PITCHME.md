@@ -29,40 +29,13 @@
 
 ---
 
-## 自分で開発した箇所
-- 企画
-- メインプログラムは全て自作
-- セミのモデルとアニメーション
-
----
-
-## 利用した素材(1/2)
-- 階段のモデル
-  - Aquarius Max. Dungeon Creator Kit LITE http://u3d.as/api
-- トーチ
-  - Unity Technologies. Unity Particle Pack http://u3d.as/BZ7
-- フォント
-  - 青柳衡山,Musashi System Inc. 衡山毛筆フォント行書 http://opentype.jp/kouzangyousho.htm
-- BGM
-  - H/MIX GALLERY. http://www.hmix.net/
-
-+++
-
-- 効果音
-  - 効果音ラボ. http://soundeffect-lab.info/
-- MP3の切り出し
-  - Martin Pesch. http://mpesch3.de1.cc/mp3dc.html
-- Cinemachine / PostProcessing Stack V2
-  - Unity Technologies.
-- オンラインランキング機能
-  - naichi.  http://blog.naichilab.com/entry/webgl-simple-ranking
-
----
 ## 開発環境
 - 開発環境
   - Windows7+Unity2017.1
 - モデリング
   - Blender3D
+
+---
 
 ## 開発期間
 - 作業開始から4日間
@@ -86,4 +59,35 @@
 
 ---
 
-以上です。
+## 自分で開発した箇所
+- 企画
+- メインプログラムは全て自作
+- セミのモデルとアニメーション
+
+---
+
+## 利用した素材(1/2)
+- 階段のモデル
+  - Aquarius Max. Dungeon Creator Kit LITE http://u3d.as/api
+- トーチ
+  - Unity Technologies. Unity Particle Pack http://u3d.as/BZ7
+- フォント
+  - 青柳衡山,Musashi System Inc. 衡山毛筆フォント行書 http://opentype.jp/kouzangyousho.htm
+- BGM
+  - H/MIX GALLERY. http://www.hmix.net/
+
+---
+
+## 利用した素材(2/2)
+- 効果音
+  - 効果音ラボ. http://soundeffect-lab.info/
+- MP3の切り出し
+  - Martin Pesch. http://mpesch3.de1.cc/mp3dc.html
+- Cinemachine / PostProcessing Stack V2
+  - Unity Technologies.
+- オンラインランキング機能
+  - naichi.  http://blog.naichilab.com/entry/webgl-simple-ranking
+
+---
+
+以上。
