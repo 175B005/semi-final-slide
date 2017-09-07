@@ -52,6 +52,8 @@
 
 ## アピール点
 
+<img src="https://object-storage.tyo1.conoha.io/v1/nc_df3bdbc45bc04950b558834f5728517a/unityroom_production/icon/1302/oneweek4.gif" height="80%">
+
 ![蝉ファイナル](https://object-storage.tyo1.conoha.io/v1/nc_df3bdbc45bc04950b558834f5728517a/unityroom_production/icon/1302/oneweek4.gif)
 
 - 悪夢っぽい、肝試しのような雰囲気
