@@ -59,7 +59,7 @@ Unity1週間ゲームジャム 「夏」　出展作品
 
 <img src="https://object-storage.tyo1.conoha.io/v1/nc_df3bdbc45bc04950b558834f5728517a/unityroom_production/icon/1302/oneweek4.gif" height="240px">
 
-- Post Process Stackによる悪夢っぽい、肝試しのような雰囲気
+- Post Processing Stackによる悪夢っぽい、肝試しのような雰囲気
 - 音響で不気味さをアップ
 - 思わずのけぞるセミの攻撃
 
