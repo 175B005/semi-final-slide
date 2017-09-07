@@ -1,5 +1,8 @@
 #テーマの設定
-theme : sky
+theme : black
 
 #フットノート
 footnote : "(C) 2017 Yu Tanaka"
+
+#切り替え効果
+transition : convex
